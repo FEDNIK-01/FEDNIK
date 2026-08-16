@@ -2,7 +2,7 @@
 
 <img src="logo.png" width="320">
 
-# ТВОЁ ИМЯ / НАЗВАНИЕ
+# CÓDIGO SALVAJE
 
 ---
 
