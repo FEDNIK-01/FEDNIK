@@ -30,27 +30,22 @@
 
 # About & Leadership
 
-I am **ТВОЁ ИМЯ** — Founder & Lead Software Architect.
+I am **Nikolai**, a Software Distribution and Development Specialist.
 
-I specialize in designing and engineering mission-critical digital systems, high-concurrency backends, and full-scale enterprise web applications.
+I specialize in software development, distribution, automation, and system administration, with a strong focus on Python and its ecosystem.
 
-- **High-Load Backend & Distributed Systems:** Scalable REST, GraphQL and gRPC APIs, distributed asynchronous task queues, databases and high-performance backend systems.
-- **Cybersecurity & Infrastructure Hardening:** Rate limiting, data sanitization, anti-bot mitigation, brute-force protection and Role-Based Access Control (RBAC).
-- **High-Performance Frontend:** Modern web applications built with Next.js, React and TailwindCSS.
-- **End-to-End Delivery:** Complete project lifecycle from architecture and data modeling to CI/CD, Docker and production monitoring.
+* **Python Development:** Proficient in Python and its ecosystem, developing applications, utilities, scripts, automation tools, and custom software solutions.
+* **Software Engineering:** Experienced in designing and building software solutions tailored to specific requirements, from simple utilities to complex applications.
+* **Databases:** Comfortable working with databases, including database design, queries, data management, optimization, and integration with applications.
+* **Linux & System Administration:** Experienced with Linux-based systems, command-line tools, system configuration, services, permissions, networking, and server administration.
+* **Automation:** Automating repetitive tasks and workflows with Python, developing scripts and tools to improve efficiency and reliability.
+* **Backend Development:** Able to build backend services, APIs, integrations, and server-side applications using modern development approaches.
+* **Software Distribution:** Handling software distribution, installation, configuration, updates, and maintenance across different environments.
+* **Infrastructure & Networking:** Familiar with servers, networking fundamentals, system services, deployment environments, and the tools required to maintain reliable software infrastructure.
+* **Problem Solving:** Skilled at troubleshooting technical issues, identifying bottlenecks, optimizing existing solutions, and finding practical engineering solutions.
+* **End-to-End Development:** Capable of taking a project from the initial idea and architecture through development, database integration, deployment, testing, and maintenance.
 
----
 
-# Featured Architecture & Commercial Cases
-
-| Project | Description |
-|---|---|
-| **Project One** | Full-scale digital platform and SaaS ecosystem. |
-| **Project Two** | High-performance cybersecurity gateway and infrastructure. |
-| **Project Three** | Enterprise automation and distributed backend system. |
-| **Project Four** | Modern web application with scalable architecture. |
-
----
 
 # Technical Stack
 
