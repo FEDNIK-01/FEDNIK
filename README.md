@@ -4,7 +4,7 @@
 
 # CÓDIGO SALVAJE
 
----
+
 
 CÓDIGO SIN LÍMITES  |  IDEAS SALVAJES  |  RESULTADOS REALES
 
@@ -12,11 +12,11 @@ Limitless Code • Savage Ideas • Real Results
 
 <br>
 
-<a href="https://t.me/ТВОЙ_USERNAME">
+<a href="https://t.me/FEDNIK01">
 <img src="https://img.shields.io/badge/TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="mailto:ТВОЙ_EMAIL">
+<a href="mailto:nik777dmit@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -46,7 +46,7 @@ I specialize in software development, distribution, automation, and system admin
 * **End-to-End Development:** Capable of taking a project from the initial idea and architecture through development, database integration, deployment, testing, and maintenance.
 
 
-
+---
 # Technical Stack
 
 ### Backend
