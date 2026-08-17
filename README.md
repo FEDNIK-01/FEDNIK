@@ -6,9 +6,9 @@
 
 ---
 
-### КОД БЕЗ ГРАНИЦ | ИДЕИ | РЕЗУЛЬТАТЫ
+CÓDIGO SIN LÍMITES  |  IDEAS SALVAJES  |  RESULTADOS REALES
 
-*Limitless Code • Savage Ideas • Real Results*
+Limitless Code • Savage Ideas • Real Results
 
 <br>
 
