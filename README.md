@@ -4,8 +4,6 @@
 
 # CÓDIGO SALVAJE
 
-
-
 CÓDIGO SIN LÍMITES  |  IDEAS SALVAJES  |  RESULTADOS REALES
 
 Limitless Code • Savage Ideas • Real Results
@@ -30,7 +28,7 @@ Limitless Code • Savage Ideas • Real Results
 
 # About & Leadership
 
-I am **Nikolai**, a Software Distribution and Development Specialist.
+I am **Nikolay**, a Software Distribution and Development Specialist.
 
 I specialize in software development, distribution, automation, and system administration, with a strong focus on Python and its ecosystem.
 
